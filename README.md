@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvOKOs
 - 👀 I’m interested in C#, HTML & CSS, JavaScript
-- 🌱 I’m currently learning SQL server
+- 🌱 I’m currently learning HTML & CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - ivaylo.kostadinov98@gmail.com
 
